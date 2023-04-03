@@ -4,4 +4,4 @@ I have analyzed the data that I have obtained from experiment and examined the p
 I used mixed-logistic regression model with a backward comparison to examine the effect of variants in the output.
 The graphs were created using matplotlib and Seaborn
 
-This coding has been co-written with my supervisor James White.
+This coding has been written with my supervisor James White and I have modified to fit to my data.
