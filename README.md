@@ -1,7 +1,8 @@
 # Data-Analysis
 
-I have analyzed the data that I have obtained from experiment and examined the probability of the frequency of variants in learners' output.
-I used mixed-logistic regression model with a backward comparison to examine the effect of variants in the output.
-The graphs were created using matplotlib and Seaborn
+This is a part of my PhD research project.
+I collected data in a series of experiments at labs in the UK and South Korea.
+I analysed how often participants chose to use prefix form and how well they applied a phonological alternation to stems.
+I used mixed-logistic regression model with a backward comparison.
 
-This coding has been written with my supervisor James White and I have modified to fit to my data.
+The code has been written with my supervisor James White and I have modified it to fit to the Korean dataset. 
